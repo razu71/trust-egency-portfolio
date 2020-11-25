@@ -1,0 +1,395 @@
+/**
+ * @version v1.1.9
+ * @build 10-21-2019
+ * @package nowadays - One/Multi Page Multipurpose Creative HTML5 Template
+ * @author  Pavel Marhaunichy <onebelarussianguy@gmail.com>
+ * @license SEE LICENSE IN http://themeforest.net/licenses
+ * @website https://likeaprothemes.com
+ */
+
+/********************************
+@ CORAL THEME
+********************************/
+.theme-color {
+	color: coral;
+}
+
+.menu-desktop .menu__link:hover {
+	color: coral;
+}
+
+.menu-desktop .menu__link:hover:after, .menu-desktop .menu__link_active:after {
+	background: coral;
+}
+
+.menu-desktop .menu__link_active {
+	color: coral;
+}
+
+.menu-desktop .submenu__link:hover {
+	background: coral;
+}
+
+.menu-desktop .submenu-mega > .submenu .submenu .submenu__item:first-child:not(.submenu__item_empty):after {
+	background: coral;
+}
+
+.menu-desktop .submenu-mega .submenu__link:hover {
+	color: coral;
+}
+
+.menu-mobile .menu__link:hover {
+	background: coral;
+}
+
+.menu-mobile .menu__link_pressed {
+	color: coral;
+}
+
+.menu-mobile .submenu__link:hover {
+	background: coral;
+}
+
+.menu-toggle:hover .menu-toggle__inner, .menu-toggle:hover .menu-toggle__inner:after, .menu-toggle:hover .menu-toggle__inner:before {
+	background-color: coral;
+}
+
+.main-video__title:after {
+	background: coral;
+}
+
+.pro-item__timeline {
+	background: coral;
+}
+
+.main-5-slider-text__title_before:before {
+	background: coral;
+}
+
+.main-5-slider-text__title_after:after {
+	background: coral;
+}
+
+.features-1 .features-item__icon {
+	background: coral;
+}
+
+.features-1 .features-item__icon:after {
+	border: 2px solid coral;
+}
+
+.features-1 .features-item__link {
+	color: coral;
+}
+
+.features-2 .features-item {
+	background: coral;
+}
+
+.features-3 .features-item__icon {
+	color: coral;
+}
+
+.portfolio-item__wrap:before {
+	background: coral;
+}
+
+.portfolio-item__wrap:hover:before {
+	background: coral;
+}
+
+.portfolio-filter__item:hover {
+	color: coral;
+}
+
+.portfolio-filter__item_active {
+	color: coral !important;
+}
+
+.section-arrow:before {
+	color: coral;
+}
+
+.s-get-it__bg:before {
+	background: coral;
+}
+
+.s-get-it-2 {
+	background: coral;
+}
+
+.s-get-it-2-triangle:before {
+	border-color: transparent transparent coral;
+}
+
+.process :nth-child(2n+1) .process-item {
+	background: coral;
+}
+
+.process-subitem__ico:before {
+	color: coral;
+}
+
+.s-blog-post:after {
+	background: coral;
+}
+
+.team-item-social__icon:hover {
+	border-color: coral;
+}
+
+.team-item-social__icon:hover:before {
+	color: coral;
+}
+
+.team-item-details {
+	background: coral;
+}
+
+.team-2-item-social__icon:hover {
+	color: coral;
+}
+
+.skills-graph-linear__bar, .skills-graph-linear__bg:after {
+	background: coral;
+}
+
+.skills-graph-circle__bar {
+	stroke: coral;
+}
+
+.skills-graph-circle__bg {
+	stroke: coral;
+}
+
+.counters__bg:before {
+	background: coral;
+}
+
+.counters-item__count.counters-item__count_color_theme, .counters-item__ico.counters-item__ico_color_theme {
+	color: coral;
+}
+
+.offer-1-features-item:before {
+	color: coral;
+}
+
+.offer-2 :nth-child(2n) .offer-2-item {
+	background: coral;
+}
+
+.offer-2-subitem__ico:before {
+	color: coral;
+}
+
+.offer-3-feature__ico {
+	background: coral;
+}
+
+.offer-3-feature__ico:after {
+	border: 16px solid coral;
+}
+
+.offer-3-feature__name {
+	color: coral;
+}
+
+.offer-3-feature__name:after, .offer-3-feature__name:before {
+	background: coral;
+}
+
+.s-clients:before {
+	background: coral;
+}
+
+.clients-item__text:after, .clients-item__text:before {
+	color: coral;
+}
+
+.clients-item__name {
+	color: coral;
+}
+
+.clients-dots__dot.active {
+	background: coral;
+}
+
+.footer__title:after {
+	background: coral;
+}
+
+.footer-contacts__link {
+	color: coral;
+}
+
+.footer-social__item:hover:before {
+	color: coral;
+}
+
+.footer-twitter-feed-vertical__list a {
+	color: coral;
+}
+
+.footer-twitter-feed-vertical__item:before {
+	color: coral;
+}
+
+.footer-form__submit:hover {
+	background: coral;
+}
+
+.footer-menu__link:hover, .footer-menu__link_active {
+	color: coral;
+}
+
+.footer-menu__link:after {
+	background: coral;
+}
+
+.likeapro:hover {
+	color: coral;
+}
+
+.faq-q:before {
+	color: coral;
+}
+
+.faq-a:after, .faq-a:before {
+	background: coral;
+}
+
+.four04-title {
+	color: coral;
+}
+
+.four04-text {
+	color: coral;
+}
+
+.contact-info__link:hover {
+	color: coral !important;
+}
+
+.contact-form__submit {
+	background: coral;
+}
+
+.section-2 .section__title:after {
+	background: coral;
+}
+
+.google-maps__marker {
+	border: 4px solid coral;
+}
+
+.btn-a_color_theme:hover:after, .btn-a_fill_theme:after {
+	background: coral;
+}
+
+.btn-a_color_theme {
+	color: coral;
+}
+
+.btn-a_color_theme {
+	border-color: coral;
+}
+
+.btn-a_fill_theme {
+	border-color: coral;
+}
+
+.btn-a_fill_theme:hover {
+	color: coral;
+}
+
+.modal__info:hover:before {
+	color: coral;
+}
+
+.project-modal__url {
+	color: coral;
+}
+
+.preloader:before {
+	border-color: coral coral transparent;
+}
+
+.blog-nav__link:hover, .blog-nav__link_active {
+	border: 1px solid coral;
+}
+
+.blog-nav__link:hover, .blog-nav__link_active {
+	background: coral;
+}
+
+.blog-sidebar-block__title:after {
+	background: coral;
+}
+
+.blog-sidebar-search__submit:hover {
+	color: coral;
+}
+
+.blog-sidebar-list__link:before {
+	color: coral;
+}
+
+.blog-sidebar-list__link:hover {
+	color: coral;
+}
+
+.blog-sidebar-tags__tag:hover {
+	color: coral;
+}
+
+.blog-sidebar-tags__tag:hover {
+	border-color: coral;
+}
+
+.post-format-image .post-title:hover, .post-format-slider .post-title:hover {
+	color: coral;
+}
+
+.post-format-simple .post-title:hover, .post-format-video .post-title:hover {
+	color: coral;
+}
+
+.post-date {
+	background: coral;
+}
+
+.post-content-quote:after, .post-content-quote:before {
+	background: coral;
+}
+
+.post-meta__link:hover {
+	color: coral;
+}
+
+.blog-author:after {
+	background: coral;
+}
+
+.blog-related-post-thumb__inner:after {
+	background: coral;
+}
+
+.blog-related-post-thumb:hover .blog-related-post-thumb__inner:after {
+	background: coral;
+}
+
+.blog-related-post-meta__title:hover {
+	color: coral;
+}
+
+.blog-related-post-meta-comments__link:hover {
+	color: coral;
+}
+
+.comment-meta__author:hover {
+	color: coral;
+}
+
+.comment-reply-link:hover {
+	color: coral;
+}
